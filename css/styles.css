@@ -86,6 +86,7 @@ h1::after{
     font-size: 22px;
     animation: chaticon 3s linear infinite;
     -webkit-animation: chaticon 3s linear infinite;
+    border: 2px solid black;
 }
 
 @keyframes chaticon {
